@@ -1,0 +1,17 @@
+# neo7
+
+> Engineering notes, tooling write-ups and things worth writing down.
+
+
+## Documentation
+- [Welcome](https://neo7.dev/docs/welcome/): What this section is for Docs here are reference: things that stay true and get looked up again. A …
+
+## Blog
+- [Welcome](https://neo7.dev/blog/welcome/): A new site for engineering notes — what goes here, what does not, and why writing it down beats … - Published 2026-10-01
+
+## Root Pages
+- [About](https://neo7.dev/about/): neo7.dev is a working notebook: engineering notes, tooling write-ups, and the details that only …
+
+---
+Generated on 2026-10-03 11:14:02 UTC
+Site: https://neo7.dev/
